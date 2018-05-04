@@ -1,8 +1,11 @@
 # ElectronChatApp
 A full functioning Chat app up till Slack
 
-My main chat app.
+Main chat app.
 This is live on http://chatapp.enscaled.sg/
+
+All credit goes to Rocket.Chat https://github.com/RocketChat/Rocket.Chat
+A very good example of things we can do with open source projects.
 
 Its a complete communication tool like slack/ even better.
 
@@ -10,7 +13,7 @@ This repo is for the desktop executable version of the main web application
 This is being done by Electron Framework. It alows us to create cross platform desktop app using javascript.
 
 How to run this:  
-  # you must have
+  # You must have
       1. NodeJS
       2. Electron (https://www.npmjs.com/package/electron) [npm i electron]
       3. Eelectron-packager (https://www.npmjs.com/package/electron-packager) [npm install electron-packager -g]
